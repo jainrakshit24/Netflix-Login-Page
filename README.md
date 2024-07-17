@@ -25,7 +25,7 @@ This project demonstrates how to create an Netflix Login Page using only HTML an
 
 Here are some screenshots of the Netflix Login Page in action:
 
-![Toggle Pill Off State](screenshots/screenshot1.png)
+![Toggle Pill Off State](screenshots/Screenshot2.png)
 
 ## Contributing
 
